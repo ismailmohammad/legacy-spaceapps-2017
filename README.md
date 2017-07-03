@@ -38,7 +38,7 @@ LarkData is a tool which takes thousands of Ionogram images scanned by the Canad
 ## Target Audience:
 Something to stress here is the target audience for our tool. The CSA challenge page mentioned that "without a tool to manage this huge collection of data, it is nearly impossible to carry out effective searches". What this indicates is that there is a need for such a tool to parse the information. Moreover, carrying out effective searches is what would assist researchers and scientists to decipher trends within the different time periods for the ionosphere and even focus in on specific times of a single day even. If the Alouette-II also used Binary Digital Coding (BDC), then this tool could further be extended into the images captured by that satellite. The general public and enthusiasts could also utilize our tool, however the emphasis would be on research and scientists who would be able to sift through the huge amounts of data and make observations and comparisons perhaps with the current day ionosphere and notice the trends over time.
 
-## Video Demonstration of our Project at Work (Website Tool and Python Algorithms):
+## Video Demonstration of our Project at Work:
 [![LarkData Demo](http://i.imgur.com/H7FsZuQ.png)](https://www.youtube.com/watch?v=LWgXa3Rc61c "LarkData Demo")
 
 ## Why was our Published Project focused only on a smaller sample of data?
